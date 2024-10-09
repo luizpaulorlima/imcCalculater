@@ -30,7 +30,7 @@ A "Calculadora de IMC" é uma aplicação web que permite calcular o Índice de 
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone <[(https://github.com/luizpaulorlima/imcCalculater)>
+   git clone <https://github.com/luizpaulorlima/imcCalculater>
 
 ### Instruções para o Uso
 
